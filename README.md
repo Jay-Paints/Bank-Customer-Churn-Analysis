@@ -1,4 +1,4 @@
-# Bank Customer Churn Analysis: Investigating Key CHurn Drivers and the Financial Impact on the Bank
+# Bank Customer Churn Analysis: Investigating Key Churn Drivers and the Financial Impact on the Bank
 
 ## Executive Summary
 Our current churn rate stands at 20.4% over the past 10 tenures, indicating 1 in 5 customers leave the bank. This represents a significant risk to our deposit base. The analysis reveals a "High-Value Flight" pattern: we are disproportionately losing older, wealthier customers, particularly in the German market. These customers are predominantly female and hold 1 product. The bank must implement the following strategic recommendations to reduce churn to 15%, potentially retaining $15,805,282 balance at risk in the next tenure: Audit the German Market, Re-engage Affluent Customers, Optimize Product Mix, Enhance Wealth Management for Seniors, and offer improved Gender-Inclusive Services for women.
@@ -21,7 +21,7 @@ Our current churn rate stands at 20.4% over the past 10 tenures, indicating 1 in
 * Communication: Storytelling, Excel Charts, PowerPoint Presentation, Executive Reporting.
 * Analytical Techniques: Exploratory Data Analysis (EDA), Data Cleaning, Churn and Retention Rates, Doughnut Chart, Bar Chart, Histogram, Density Distribution, Hypothesis Testing (Chi-Squared and T-Test of independence), Univariate and Bivariate Statistical Analysis, Correlation Matrix, Scatterplot, Heatmap, Data Tables.
 * Python: Pandas, Matplotlib, Seaborn, Numpy, Pingouin (for Hypothesis Test), Pivot Tables, User Defined Functions.
-* Tools: Jupyter Notebook, VS Code, GitHub, Loom (to record asynchronous presentation).
+* Tools: Jupyter Notebook, VS Code, GitHub, Loom (for asynchronous video presentation).
 
 ## Methodology
 
@@ -49,7 +49,7 @@ The first step was to calculate descriptive statistics, the number of customers 
 
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9390abf7-1b90-40a4-a6a5-e38567fa9180" width="500">
+  <img src="https://github.com/user-attachments/assets/9390abf7-1b90-40a4-a6a5-e38567fa9180" width="350">
 </p>
 
 Calculation of churned and retained averages of numerical attributes revealed that, regarding `Age`, older customers are higher risk churners. Larger balance correlates with higher churn risk, that is customers with higher account balance are more likely to leave. The churned and retained averages for `Credit Score`, `Tenure`, and `EstimatedSalary` were negligible.
