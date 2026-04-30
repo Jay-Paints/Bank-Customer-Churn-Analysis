@@ -49,7 +49,7 @@ The first step was to calculate descriptive statistics, the number of customers 
 
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9390abf7-1b90-40a4-a6a5-e38567fa9180" width="350">
+  <img width="328" height="380" alt="churn_vs_retention_rate" src="https://github.com/user-attachments/assets/c3050d44-10ce-4a03-ae35-aaac65a7578c" />
 </p>
 
 Calculation of churned and retained averages of numerical attributes revealed that, regarding `Age`, older customers are higher risk churners. Larger balance correlates with higher churn risk, that is customers with higher account balance are more likely to leave. The churned and retained averages for `Credit Score`, `Tenure`, and `EstimatedSalary` were negligible.
