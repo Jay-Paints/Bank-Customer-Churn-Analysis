@@ -170,7 +170,7 @@ The financial loss associated with churn is substantial and targets the bank's l
 * **Total Balance Lost (Churned):** A total of $186 million in customer balances has been lost in the period under analysis.
 * **Loss of Affluent Clients:** The bank is not just losing customers; it is losing its wealthiest ones. The average churned customer leaves with nearly $19,000 more in their account than the average customer who stays.
 * **Regional Revenue Risk:** In Germany alone, the bank has seen nearly $98 million in balances exit, threatening the viability of operations in that region.
-* **Total Balance at Risk:** The bank risks losing $15,805,282 in the current tenure if churn is not curbed.
+* **Total Balance at Risk:** The bank risks losing $15,805,282 in the next tenure if churn is not curbed.
 
 ## Strategic Recommendations
 To mitigate the losses, the bank should implement the following retention strategies: 
